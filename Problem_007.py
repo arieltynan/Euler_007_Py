@@ -1,3 +1,6 @@
+# Euler Problem 007
+# Solved January 2021
+
 # 10001st prime
 # Using Sieve of Eratosthenes
 MAX_PRIME = 2000000
